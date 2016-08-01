@@ -1,2 +1,2 @@
 # Fatigue-modeling
-The recorded raw data is under "Raw data.rar" folder.
+The code for methodology section of the paper under "R and MATLAB code.rar" folder.
